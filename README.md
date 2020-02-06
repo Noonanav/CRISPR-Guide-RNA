@@ -1,4 +1,4 @@
-# CRISPR_Guide_RNA
+# CRISPR_Guide_RNA_Changed by Avery
 
 Uses the model developed by Farasat/Salis to run a script that finds the best guide RNAs
 for a given gene (Target Sequence), Genome and any additional DNA sequences. The model is based on the
